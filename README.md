@@ -1,3 +1,3 @@
-# RM-MMDnet
+# GRAM-net
 
-Work in progress. 
+Official Tensorflow, Julia and Pytorch implementation: https://github.com/GRAM-nets
